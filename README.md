@@ -141,15 +141,15 @@ payroll.removeEmployee(102);
 - Add search and update functionality
 - Implement GUI interface
 
+
 ## 👥 Author
 
-**Abdur Rahman Faisal**
-- Software Engineering Enthusiast
-- CSE @ SEU
-- 
-📧 Email: arfaisal463@gmail.com
-🔗 LinkedIn: [https://www.linkedin.com/in/abdur-rahman-faisal/]
-🐙 GitHub: [https://github.com/arFaisal043]
+**Abdur Rahman Faisal**  
+*Software Engineering Enthusiast | CSE Student @ SEU*
+
+- **Email:** arfaisal463@gmail.com
+- **LinkedIn:** [linkedin.com/in/abdur-rahman-faisal](https://www.linkedin.com/in/abdur-rahman-faisal/)
+- **GitHub:** [github.com/arfaisal043](https://github.com/arfaisal043)
 
 
 ---
